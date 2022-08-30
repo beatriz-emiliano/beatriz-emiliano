@@ -1,7 +1,6 @@
 <h3 align="center">Welcome to my profile!</h3>   
 <div align="center">
   <a href="https://github.com/beatriz-emiliano">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=beatriz-emiliano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=beatriz-emiliano&theme=dracula&hide_border=true"/>
 </div>
 <div style="display: inline_block"><br>
