@@ -2,6 +2,7 @@
 <div align="center">
   <a href="https://github.com/beatriz-emiliano">
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=beatriz-emiliano&theme=dracula&hide_border=true"/>
+    <br/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=beatriz-emiliano&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center" />
      
 <div style="display: inline_block"><br>
