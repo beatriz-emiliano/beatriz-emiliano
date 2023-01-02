@@ -2,10 +2,8 @@
 <div align="center">
   <a href="https://github.com/beatriz-emiliano">
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=beatriz-emiliano&theme=dracula&hide_border=true"/>
-</div>
-<div align="center">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=beatriz-emiliano&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center" />
-</div>      
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=beatriz-emiliano&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center" />
+     
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
