@@ -1,4 +1,8 @@
 <h3 align="center">Welcome to my profile!</h3>   
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=beatriz-emiliano&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatriz-emiliano&layout=compact&theme=dracula&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <div align="center">
   <a href="https://github.com/beatriz-emiliano">
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=beatriz-emiliano&theme=dracula&hide_border=true"/>
