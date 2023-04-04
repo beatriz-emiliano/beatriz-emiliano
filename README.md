@@ -19,7 +19,7 @@
   <img align="center" title="RASPBERRYPI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">
   <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS" width="60" height="30"/> &ensp;</a>
   <img align="right" alt="bia-pic" height="150" style="border-radius:50px;" 
-src="image/download20230402165420.png"> 
+src="image/image.png"> 
 </div>
   
   ##
